@@ -78,7 +78,7 @@ body{
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: rgb(223, 80, 139);
+    color: rgb(245, 139, 183);
 }
 
 .imagem-principal{
@@ -111,4 +111,29 @@ body{
 }
 .conteudo-principal-botao:hover{
     background-color: rgb(209, 63, 165);
+}
+.sobre{
+    font-family: 'Righteous' , cursive;
+    margin-bottom: 16px;
+    color: rgb(124, 9, 63);
+    text-align: center;
+}
+
+.texto-sobre{
+    font-family: 'Sarala', sans-serif;
+    font-size: 19px;
+    text-align: center;
+}
+
+.imagem-sobre{
+    height: 400px;
+    padding-top: 50px;
+    
+}
+
+.fotos-titulo{
+    font-family: 'Righteous' , cursive;
+    margin-bottom: 16px;
+    color: rgb(124, 9, 63);
+    text-align: center;
 }
