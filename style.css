@@ -137,3 +137,14 @@ body{
     color: rgb(124, 9, 63);
     text-align: center;
 }
+
+.fotos-subtitulo{
+    font-family: 'Sarala' , sans-serif;
+    margin-bottom: 16px;
+    color: rgb(124, 9, 63);
+    text-align: center;
+}
+
+#slide{
+    height: 400px;
+}

@@ -1,11 +1,11 @@
 var imagens=[
-    'imagens/totoro1.JPG',
-    'imagens/mei1.jpg',
-    'imagens/totoro2.jpg',
-    'imagens/mei2.jpg',
+    'imagens/totoro1.jpg',
+    'imagens/mei1.png',
+    'imagens/totoro2.png',
+    'imagens/mei2.png',
     'imagens/totoro3.jpg',
-    'imagens/mei3.jpg',
-    'imagens/totoro4.jpg',
+    'imagens/mei3.png',
+    'imagens/totoro4.png',
     'imagens/mei4.jpg'
 ];
 
@@ -18,3 +18,5 @@ function slideShow(){
     if(Index == imagens.length){Index = 0;}
     setTimeout("slideShow()", time);
 }
+
+slideShow();
