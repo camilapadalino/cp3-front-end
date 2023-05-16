@@ -128,7 +128,7 @@ body{
 .imagem-sobre{
     height: 400px;
     padding-top: 50px;
-    
+    margin-bottom: 70px;
 }
 
 .fotos-titulo{
@@ -145,6 +145,77 @@ body{
     text-align: center;
 }
 
+.contato-titulo{
+    font-family: 'Righteous' , cursive;
+    margin-bottom: 16px;
+    color: rgb(124, 9, 63);
+    text-align: center;
+}
+
+.contato-subtitulo{
+    font-family: 'Sarala' , sans-serif;
+    margin-bottom: 16px;
+    color: rgb(124, 9, 63);
+    text-align: center;
+}
+
+.input,textarea{
+    width: 200px;
+    padding: 10px;
+    color:black;
+    border-radius: 5px;
+
+}
+
+textarea{
+    width: 300px;
+    height: 120px;
+    line-height: 20px;
+    border-color: pink;
+    color: rgb(102, 8, 52);
+}
+.submit input:hover{
+    background-color: blue;
+    font-weight: bold;
+    color:#fff;
+    margin-left: 200px;
+}
+
+.nome{
+    text-align: center;
+    border-color: pink;
+    color: rgb(102, 8, 52);
+}
+
+.email{
+    text-align: center;
+    border-color: pink;
+    color: rgb(102, 8, 52);
+}
+
+.telefone{
+    text-align: center;
+    border-color: pink;
+    color: rgb(102, 8, 52);
+}
+
+#button{
+    background-color: pink;
+    font-family: 'Sarala', sans-serif;
+    color: rgb(182, 29, 75);
+    height: 70%;
+    width: 10%;
+    border: none;
+    box-shadow: 4px 5px 6px rgba(102, 12, 80, 0.534);
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 100px;
+
+
+}
+
 #slide{
     height: 400px;
+    margin-bottom: 70px;
 }
