@@ -102,6 +102,14 @@ body{
     margin-bottom: 16px;
 }
 
+.texto-home{
+    font-family: 'Righteous',cursive;
+    font-size: 15px;
+    font-weight: 200;
+    color: rgb(71, 7, 34);
+}
+
+
 .footer{
     padding: 32px;
     color: darkred;
@@ -150,6 +158,38 @@ body{
     margin-bottom: 16px;
     color: rgb(124, 9, 63);
     text-align: center;
+}
+
+.imagem-fotos-totoro{
+    text-align: left;
+    height: 300px;
+    align-content:center ;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.imagem-fotos-mei{
+
+    text-align: right;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.imagem-fotos-mei2{
+
+    text-align: right;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.imagem-fotos-totoro2{
+
+    text-align: left;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 40px;
 }
 
 .contato-titulo{
@@ -219,5 +259,6 @@ textarea{
 
 #slide{
     height: 400px;
-    margin-bottom: 70px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
